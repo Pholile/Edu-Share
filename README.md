@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm SOMA Africa Team</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">We are the SOMA Africa Team</h1>
 <h3 align="center">SOMA AFRICA APPLIACTION DEVELOPERS</h3>
 
 <p align="center">
@@ -8,9 +8,12 @@
 </p>
 
 ## 📌 About Me
-- Project description: We are currently working on a student application where students from all over Africa can exchange books with one another. The aim is to create a system where students can save more money by purchasing books from each other without spending too much money on new books. Essentially, it will work like an online library system where students can resell their books to students that need them.
-- Setup instructions: We'll be using Blazer for the core of our application, opposed to MVC, as Blazer offers a cleaner base.
-- Technologies used: Using Blazer on ASP.Net Core with SQL Server for the database.
+<h5>Project description:</h5> 
+-  We are currently working on a student application where students from all over Africa can exchange books with one another. The aim is to create a system where students can save more money by purchasing books from each other without spending too much money on new books. Essentially, it will work like an online library system where students can resell their books to students that need them.
+<h5>Setup instructions:</h5>
+-  We'll be using Blazer for the core of our application, opposed to MVC, as Blazer offers a cleaner base.
+<h5>Technologies used:</h5>
+-  Using Blazer on ASP.Net Core with SQL Server for the database.
 
 
 ## 🧠 My Focus Areas
