@@ -16,6 +16,12 @@
 -  Using Blazer on ASP.Net Core with SQL Server for the database.
 
 
+## 🕹️ Technologies Used
+-NET 10.0 : The underlying high-performance, cross-platform runtime and framework used to build and host the entire application. </br>
+-ASP.NET Core: The web framework used to handle HTTP requests, routing, security, and server-side logic.</br>
+-Blazor (Interactive Server): A modern web UI framework used to build the front-end components using C# instead of JavaScript. It enables real-time, interactive features (like book searches and live offers) via a persistent connection (SignalR).
+
+
 ## 🧠 My Focus Areas
 - Web Development
 - System Research and Development
